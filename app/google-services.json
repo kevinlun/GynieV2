@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "515022221492",
+    "firebase_url": "https://gynie-e6160.firebaseio.com",
+    "project_id": "gynie-e6160",
+    "storage_bucket": "gynie-e6160.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515022221492:android:ec002aa1a030dadc",
+        "android_client_info": {
+          "package_name": "com.example.klun.gynie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515022221492-09a5fkq5pvknik30rpbsema3q952953q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWsBUyfSP5wnUJJF3eNrmVF-QBLLxxJTQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515022221492-09a5fkq5pvknik30rpbsema3q952953q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
