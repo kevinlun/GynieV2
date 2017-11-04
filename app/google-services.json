@@ -15,6 +15,22 @@
       },
       "oauth_client": [
         {
+          "client_id": "515022221492-rd5tr55utc6i4b30vsmjjb0e3877fvv8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.klun.gynie",
+            "certificate_hash": "39a63f493bcace3d765e3d950e3f861481bed773"
+          }
+        },
+        {
+          "client_id": "515022221492-d7ggk8gsql16pf4enlqotji6p1sviept.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.klun.gynie",
+            "certificate_hash": "d77acb0fa9fe81b93e401fd08902fb765d5b1a63"
+          }
+        },
+        {
           "client_id": "515022221492-09a5fkq5pvknik30rpbsema3q952953q.apps.googleusercontent.com",
           "client_type": 3
         }
