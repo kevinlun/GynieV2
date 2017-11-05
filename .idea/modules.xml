@@ -3,8 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Gynie.iml" filepath="$PROJECT_DIR$/Gynie.iml" />
-      <module fileurl="file://$PROJECT_DIR$/GynieV2.iml" filepath="$PROJECT_DIR$/GynieV2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\lunke_000\AndroidStudioProjects\Gynie\GynieV2.iml" filepath="C:\Users\lunke_000\AndroidStudioProjects\Gynie\GynieV2.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

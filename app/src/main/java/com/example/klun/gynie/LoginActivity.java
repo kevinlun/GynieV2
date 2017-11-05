@@ -104,6 +104,11 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
         mProgressView = findViewById(R.id.login_progress);
     }
 
+//    public void sendMessage(View view) {
+//        Intent intent = new Intent(this, WomanActivity.class);
+//        startActivity(intent);
+//    }
+
     private void populateAutoComplete() {
         if (!mayRequestContacts()) {
             return;
@@ -176,7 +181,6 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
         myRef.addListenerForSingleValueEvent(new ValueEventListener() {
             @Override
             public void onDataChange(DataSnapshot snapshot) {
-                String res = snapshot.getValue(String.class);
                 if (snapshot.getValue() == null) {
                     Intent intent = new Intent(LoginActivity.this, RegisterActivity.class);
                     startActivity(intent);
